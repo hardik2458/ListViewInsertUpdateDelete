@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewInsertUpdateDelete</string>
+    <string name="Next1">Next</string>
+    <string name="Insert">Insert</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+</resources>
